@@ -1,0 +1,62 @@
+{
+    "description": "Bloodmusic‘s recommendations for Controller. ",
+    "name": "Bloodmusic‘s Controller Rolls",
+    "data": [
+        {
+            "description": "Masterwork: Handling",
+            "hash": 2823644677,
+            "name": "Godroll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    1171887445,
+                    124408337
+                ],
+                [
+                    2041432007
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability",
+            "hash": 2823644677,
+            "name": "Godroll",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3619207468,
+                    3198323828
+                ],
+                [
+                    555281244,
+                    332733060
+                ],
+                [
+                    2041432007
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "Controller"
+            ]
+        }
+    ]
+}
